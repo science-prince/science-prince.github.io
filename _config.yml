@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Albert Potter" #主页大名
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg" #这里可以选择头像
+  avatar           : "/assets/images/d628008ddmd7c8e4c7a39bf315679d93.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" #这里可以选择头像
   bio              : "Someone who is someone." #主页简介
   location         : "New York" #地点
   email            : "fakeemailaddress@fake.com" #网址，可以点进去
