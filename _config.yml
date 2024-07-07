@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" #这里切换主题，推荐使用air contrast dark 或 neon
 
 # Site Settings
-locale                   : "zh-CN" # "en-US"
+locale                   : "zh-CN" # "en-US" #在这里切换语言
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "ALbert的博客"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Prince Albert"
+name                     : "Prince Albert" 
 description              : "An amazing website."
 url                      : "https://science-prince.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Albert Potter"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Someone who is someone."
-  location         : "New York"
-  email            : "fakeemailaddress@fake.com"
+  name             : "Albert Potter" #主页大名
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg" #这里可以选择头像
+  bio              : "Someone who is someone." #主页简介
+  location         : "New York" #地点
+  email            : "fakeemailaddress@fake.com" #网址，可以点进去
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:2406189359@qq.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/science-prince"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
