@@ -9,14 +9,17 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Darkwind's blog"
+title                    : "ALbert的博客"
 title_separator          : "-"
-name                     : "Darkwind"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : "Version 1.0"
+name                     : "Version 1.0"
+description              : "Mr.Albert's programming blog"
+url                      : "https://science-prince.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : dark-wind/dark-wind.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # dark-wind/dark-wind.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/标题头像.jpeg"
+masthead_title           : "Albert's blog" 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -90,11 +93,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Darkwind"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "All men are created equal."
-  location         : "anywhere "
-  email            : "shadow@dumii.cn"
+  name             : "Albert Potter" #主页大名
+  avatar           : "/assets/images/d628008ddmd7c8e4c7a39bf315679d93.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" #这里可以选择头像
+  bio              : "Someone who is someone." #主页简介
+  location         : "New York" #地点
+  email            : "fakeemailaddress@fake.com" #网址，可以点进去
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:2406189359@qq.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://science-prince.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/science-prince"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
